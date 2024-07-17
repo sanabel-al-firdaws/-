@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 22,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📗",
+      "📕",
+      "📖",
+      "LiBookOpen",
+      "🇸🇦"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "arabic/al-ajoromia.md": "📖",
+  "arabic/al-alfiyya.md": "📕",
+  "arabic/al-sarf.md": "📕",
+  "aqida/intro.md": "📖",
+  "aqida/fath-al-majid.md": "📖",
+  "aqida/al-sharia.md": "📕",
+  "arabic/intro.md": "📗",
+  "quran/al-tohfa.md": "📖",
+  "quran/intro.md": "📗",
+  "aqida/al-sunnah-barbahari.md": "📕",
+  "aqida/al-sunnah-baghawi.md": "📕",
+  "aqida/al-sunnah-imam-ahmed.md": "📕",
+  "blog/al-inkar-al-alani.md": "📖",
+  "blog/othr-bil-jahl.md": "📕",
+  "raqaiq/madarij.md": "📕",
+  "raqaiq/intro.md": "📕"
+}

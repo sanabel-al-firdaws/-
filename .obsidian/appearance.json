@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Shiba Inu",
+  "accentColor": "#47bcff",
+  "baseFontSize": 12,
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

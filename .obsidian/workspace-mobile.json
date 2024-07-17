@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "10d11b66423a79fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbb6d9c34bef5981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7807afe7a5e8a2c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9f990e44bdde537",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6a93852e7f19e117",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0d48b4856997bf26",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f1c7214df455bd54",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b8d546a69ec8ddfd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "23c72e3da1344a12",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "a5a5a0727a2cdc7f",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7807afe7a5e8a2c3",
+  "lastOpenFiles": [
+    "قول الحق وعدم الخشية من غير الله.md",
+    "طلب العلم.md",
+    "التحذير من اهل البدع.md",
+    "التوحيد حق الله على العبيد.md",
+    "README.md",
+    "intro.md",
+    "conflict-files-obsidian-git.md",
+    "arabic/al-ajoromia.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "blog/al-inkar-al-alani.md",
+    "blog/othr-bil-jahl.md",
+    "arabic/al-alfiyya.md",
+    "aqida/fath-al-majid.md",
+    "raqaiq/madarij.md",
+    "raqaiq/intro.md",
+    "raqaiq",
+    "arabic/al-sarf.md",
+    "aqida/intro.md",
+    "aqida/al-sunnah-imam-ahmed.md",
+    "aqida/al-sunnah-barbahari.md",
+    "aqida/al-sunnah-baghawi.md",
+    "aqida/al-sharia.md",
+    "blog/kshf-al-shobohat/othr-bil-jahl4.md",
+    "blog/kshf-al-shobohat/othr-bil-jahl2.md",
+    "blog/kshf-al-shobohat/othr-bil-jahl3.md",
+    "quran/al-tohfa.md",
+    "Pasted image 20240710005512.png",
+    "blog/kshf-al-shobohat/othr-bil-jahl.md",
+    "index.mdx",
+    "theme.mdx",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Excalidraw/Scripts/Downloaded",
+    "_Excalidraw",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
+    "_Excalidraw/test.svg",
+    "_Excalidraw",
+    "Excalidraw/test.svg",
+    "Drawing 2024-07-07 18.10.54.excalidraw.png",
+    "hey.excalidraw",
+    "webmanifest.json"
+  ]
+}

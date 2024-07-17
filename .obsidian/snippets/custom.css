@@ -1,0 +1,81 @@
+* {
+letter-spacing: normal !important;
+font-weight: normal !important;
+line-height: 2  !important ;
+
+}
+
+
+h2-size: 1em;
+  --h3-size: 1em;
+  --h4-size: 1em;
+  --h5-size: 1em;
+  --h6-size: 1em;
+
+  --h1-line-height: 1.2;
+  --h2-line-height: 1.2;
+  --h3-line-height: 1.2;
+  --h4-line-height: 1.2;
+  --h5-line-height: 1.2;
+  --h6-line-height: 1.2;
+
+  --list-indent: 1em;
+
+  --h1-weight: 600;
+  --bold-weight: 600;
+}nt;
+	}order: unset !important;
+	}is-live-preview) *::after {
+	border: unset !important;
+	}6 .cm-line.HyperMD-codeblock > *, 
+.token.number {
+  color: var(--text-normal);
+}
+
+/*- no italic style -*/
+.cm-em, em {
+  font-style: normal;
+  font-weight: 600;
+}
+
+/*- monospace font for all editor views -*/
+font-style: normal;
+  font-weight: 600;
+}
+
+/*- monospace font for all editor views -*/
+or all editor views -*/
+ws -*/
+  color: var(--text-normal);
+}
+
+/*- no italic style -*/
+.cm-em, em {
+  font-style: normal;
+  font-weight: 600;
+}
+
+/*- monospace font for all editor views -*/
+ selection color */
+      color: #ffffff; /* Text color on selection */
+    }text-normal);
+  --code-background: none;
+}
+
+/*- no color for numbers in code blocks -*/
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock > *, 
+.token.number {
+  color: var(--text-normal);
+}
+
+/*- no italic style -*/
+.cm-em, em {
+  font-style: normal;
+  font-weight: 600;
+}
+
+/*- monospace font for all editor views -*/
+.markdown-source-view.mod-cm6 .cm-scroller, .markdown-preview-view {
+  font-family: 'JetBrains Mono'; 
+}
+}
