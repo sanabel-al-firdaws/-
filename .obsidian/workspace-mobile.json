@@ -11,8 +11,13 @@
             "id": "7807afe7a5e8a2c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "التحذير من اهل البدع.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -73,7 +78,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "التحذير من اهل البدع.md"
+          }
         }
       },
       {
@@ -85,7 +92,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -95,11 +102,11 @@
   },
   "active": "7807afe7a5e8a2c3",
   "lastOpenFiles": [
+    "README.md",
+    "التحذير من اهل البدع.md",
     "قول الحق وعدم الخشية من غير الله.md",
     "طلب العلم.md",
-    "التحذير من اهل البدع.md",
     "التوحيد حق الله على العبيد.md",
-    "README.md",
     "intro.md",
     "conflict-files-obsidian-git.md",
     "arabic/al-ajoromia.md",
