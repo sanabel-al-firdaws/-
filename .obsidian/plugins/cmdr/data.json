@@ -3,8 +3,22 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
-  "leftRibbon": [],
+  "fileMenu": [
+    {
+      "id": "uncheck-all:uncheck-all",
+      "icon": "timer-reset",
+      "name": "Uncheck All: Uncheck All Checkboxes in File",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "obsidian-checklist-reset:checklist-reset",
+      "icon": "timer-reset",
+      "name": "Checklist Reset: Reset checklists",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -21,7 +35,7 @@
     "rowCount": 1,
     "spacing": 0,
     "buttonWidth": 48,
-    "columnLayout": false,
+    "columnLayout": true,
     "mappedIcons": [
       {
         "commandID": "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1721046123544",
@@ -34,6 +48,10 @@
       {
         "commandID": "font-size:decrement-font-size",
         "iconID": "minus"
+      },
+      {
+        "commandID": "obsidian-checklist-reset:checklist-reset",
+        "iconID": "circle"
       }
     ],
     "tooltips": false,

@@ -10,5 +10,8 @@
   "obsidian-style-settings",
   "font-size",
   "obsidian-wrap-with-shortcuts",
-  "cmdr"
+  "cmdr",
+  "uncheck-all",
+  "progressbar",
+  "obsidian-checklist-reset"
 ]
