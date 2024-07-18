@@ -27,7 +27,9 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Checklist Reset: Reset checklists"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
